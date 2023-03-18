@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @JorgeFresco, 20years old and I'm from Portugal.
+- 👋 Hi, I’m @JorgeFresco, 21years old and I'm from Portugal.
 - 🌱 Computer Science Student at Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa.
 - 👀 I’m interested in programming, gaming, anime, sports, etc.
