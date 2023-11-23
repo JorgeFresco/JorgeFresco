@@ -6,5 +6,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JorgeFresco&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeFresco&layout=compact&theme=dracula&langs_count=10&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeFresco&layout=compact&theme=dracula&langs_count=10&card_width=300" />
 </a>
