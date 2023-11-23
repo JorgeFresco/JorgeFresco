@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming, gaming, anime, sports, etc.
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=JorgeFresco&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" />
+<img style="height: auto; width: 55%;" align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=JorgeFresco&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" />
 &nbsp;
-<img style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeFresco&layout=compact&theme=dracula&langs_count=10" />
+<img style="height: auto; width: 40%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeFresco&layout=compact&theme=dracula&langs_count=10" />
 </div>
